@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T11:30:18.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="HxBSMzFzXJoK0LneE0kB" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T11:30:37.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="TlGIxeL4pYmPQv6OCuF3" version="13.6.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1462" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry x="535" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-QhswC7FGs499EKS-Dz-31" value="АРМ Продавца" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="130" y="810" width="1040" height="440" as="geometry">
+          <mxGeometry x="130" y="810" width="1040" height="330" as="geometry">
             <mxRectangle y="310" width="30" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
