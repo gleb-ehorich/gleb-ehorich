@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T12:34:11.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="BdrLD_luW5eL6uN2twyc" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T12:42:51.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="SotCfr7MEPIdep-pHSt-" version="13.6.0" type="github">
   <diagram id="prRB7DGZJbYfnPAG627y" name="Страница 1">
-    <mxGraphModel dx="2336" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
         <mxCell id="oIdCOfoIVstaF65jGT1j-3" value="Создан заказ" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
           <mxGeometry x="140" y="15" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oIdCOfoIVstaF65jGT1j-8" value="статус в рбработке" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;strokeColor=#028090;fontColor=#E4FDE1;labelBackgroundColor=#114B5F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oIdCOfoIVstaF65jGT1j-5" target="oIdCOfoIVstaF65jGT1j-9">
+        <mxCell id="oIdCOfoIVstaF65jGT1j-8" value="статус в обработке" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;strokeColor=#028090;fontColor=#E4FDE1;labelBackgroundColor=#114B5F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oIdCOfoIVstaF65jGT1j-5" target="oIdCOfoIVstaF65jGT1j-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="180" as="targetPoint" />
           </mxGeometry>
