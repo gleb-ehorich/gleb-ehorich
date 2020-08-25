@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T10:39:08.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="qpMn5YX53FCGzOt7IUm_" version="13.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-25T10:41:30.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="HHcNA3H4YLMA1vOg98rM" version="13.6.4" type="github" pages="2">
   <diagram id="prRB7DGZJbYfnPAG627y" name="Страница 1">
-    <mxGraphModel dx="813" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
+    <mxGraphModel dx="1362" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,7 +267,7 @@
           <mxGeometry x="1140" y="770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oIdCOfoIVstaF65jGT1j-145" value="&lt;span style=&quot;color: rgb(228, 253, 225); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(17, 75, 95); display: inline; float: none;&quot;&gt;Манхеттен&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="940" width="80" height="30" as="geometry" />
+          <mxGeometry x="1150" y="940" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oIdCOfoIVstaF65jGT1j-147" value="" style="endArrow=none;html=1;labelBackgroundColor=#33FF33;strokeColor=#028090;fillColor=#F45B69;fontColor=#FF6666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oIdCOfoIVstaF65jGT1j-33" target="oIdCOfoIVstaF65jGT1j-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
